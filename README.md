@@ -1,4 +1,4 @@
-# CLI-Based Project Tracker with GUI
+#  Project Tracker with GUI
 
 ## 🧮 Description
 
